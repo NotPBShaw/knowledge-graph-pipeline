@@ -1,5 +1,7 @@
-# knowledge-graph-builder
+# Knowledge Graph Pipeline
 
-![CI](https://github.com/TryKosm/knowledge-graph-builder/actions/workflows/ci.yml/badge.svg)
+Entity and relation extraction to graph-ready exports.
+
+![CI](https://github.com/TryKosm/knowledge-graph-pipeline/actions/workflows/ci.yml/badge.svg)
 
 Python pipeline for extracting entities/relations from text and exporting graph-ready edges.

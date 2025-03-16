@@ -3,6 +3,6 @@ requires = ["setuptools>=69", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "knowledge-graph-builder"
+name = "knowledge-graph-pipeline"
 version = "0.1.0"
 requires-python = ">=3.10"
